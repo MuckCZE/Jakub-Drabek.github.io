@@ -1,0 +1,31 @@
+h1 {
+     color: black;
+     text-decoration: solid;
+     text-transform: uppercase;
+    }
+
+
+a:link {
+  color: rgb(32, 8, 255);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(240, 1, 41);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(15, 206, 72);
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: #f8f8f4;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
